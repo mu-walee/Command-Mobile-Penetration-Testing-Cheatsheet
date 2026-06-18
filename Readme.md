@@ -262,6 +262,12 @@ Download https://www.genymotion.com/
 ### LDPlayer
 Download https://www.ldplayer.net/
 
+## quark-engine - Quick Android Review Kit
+```
+$ pip3 install -U quark-engine
+$ freshquark
+$ quark -a <apk_file> -s
+```
 ## QARK - Quick Android Review Kit
 Download https://github.com/linkedin/qark </br>
 For quick analyze application on android with scanning the apk or java file and create Proof Of Concept of vulnerability.</br>
